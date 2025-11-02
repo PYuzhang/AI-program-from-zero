@@ -3,4 +3,4 @@
 # AI-program-from-zero 
 I want to help newcomers who are looking to get into AI or related fields to build an AI model and algorithm from zero to completion
 
-# [1.从零开始本地配置deepseek-OCR]（https://github.com/PYuzhang/AI-program-from-zero/tree/main/deepseek-ocr）
+# [1.从零开始本地配置deepseek-OCR](https://github.com/PYuzhang/AI-program-from-zero/tree/main/deepseek-ocr)

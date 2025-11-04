@@ -6,7 +6,7 @@ I want to help newcomers who are looking to get into AI or related fields to bui
 一般分为几个阶段，本项目将聚焦于适合第一阶段的项目：  
 ```mermaid
 graph TD;
-项目实现阶段-->项目代码学习阶段-->项目原理学习阶段-->创新项目阶段;
+项目实现阶段-->项目代码阶段-->项目原理阶段-->项目创新阶段阶段;
 ```
 开始所有的基于Python的AI项目都要预先安装以下几个软件或者Python库(注意不要安装太新的版本,最好是使用Linux系统，笔记本电脑用Windows也可)；  
 1.[Anaconda](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)(主要用于Python环境管理，当项目多了之后，需要用到各种不同版本的库，容易造成冲突)  

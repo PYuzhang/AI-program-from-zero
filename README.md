@@ -14,4 +14,4 @@ graph TD;
 3.[pytorch](https://pytorch.org/)(用于构建深度学习模型的功能完备框架，是一种通常用于图像识别和语言处理等应用程序的机器学习)一定要选择GPU版本，并且和你的CUDA和Python匹配  
 4.Python IDE,这个请自由选择，不做要求  
 5.网络上有许多Python IDE（PyCharm）+Anaconda+CUDA+pytorch的安装教程，请选择一个详细的教程学习，这会花上几天时间
-# [1.从零开始本地配置deepseek-OCR](https://github.com/PYuzhang/AI-program-from-zero/tree/main/deepseek-ocr)
+# [1.从零开始本地配置目标检测](https://github.com/PYuzhang/AI-program-from-zero/tree/main/目标检测)

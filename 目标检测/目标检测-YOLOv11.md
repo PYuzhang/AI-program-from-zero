@@ -69,4 +69,5 @@ model = YOLO("yolo11n.pt")
 model.predict("https://ultralytics.com/images/bus.jpg", save=True, imgsz=320, conf=0.5, show=True)
 ```
   
-最后结果：<img width="799" height="1042" alt="bus" src="https://github.com/user-attachments/assets/0938207b-c798-4aa7-9a89-389d2b76dea8" />
+最后结果：  
+<img width="799" height="1042" alt="bus" src="https://github.com/user-attachments/assets/0938207b-c798-4aa7-9a89-389d2b76dea8" />

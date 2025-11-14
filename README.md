@@ -8,7 +8,7 @@ I want to help newcomers who are looking to get into AI or related fields to bui
 graph TD;
 项目实现阶段-->项目代码阶段-->项目原理阶段-->项目创新阶段阶段;
 ```
-开始所有的基于Python的AI项目都要预先安装以下几个软件或者Python库(注意不要安装太新的版本,最好是使用Linux系统，笔记本电脑用Windows也可)；  
+开始所有的基于Python的AI项目都要预先安装以下几个软件或者Python库(注意不要安装太新的版本-N卡50系除外,最好是使用Linux系统，笔记本电脑用Windows也可)；  
 1.[Anaconda](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)(主要用于Python环境管理，当项目多了之后，需要用到各种不同版本的库，容易造成冲突)  
 2.[CUDA](https://developer.nvidia.com/cuda-toolkit-archive)(这是N卡的并行计算平台和编程模型)，[cuDNN](https://developer.nvidia.com/rdp/cudnn-archive)(一个 GPU 加速的深度神经网络基本操作库)  
 3.[pytorch](https://pytorch.org/)(用于构建深度学习模型的功能完备框架，是一种通常用于图像识别和语言处理等应用程序的机器学习)一定要选择GPU版本，并且和你的CUDA和Python匹配  
